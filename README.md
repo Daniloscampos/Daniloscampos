@@ -82,9 +82,9 @@ Projeto acadêmico de gestão de acervo, usuários e empréstimos, com autentica
 ## 🐍 Construindo, aprendendo e evoluindo
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniloscampos/Daniloscampos/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniloscampos/Daniloscampos/output/github-snake.svg" />
-  <img width="100%" alt="Animação da cobrinha percorrendo o gráfico de contribuições de Daniloscampos" src="https://raw.githubusercontent.com/Daniloscampos/Daniloscampos/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniloscampos/Daniloscampos/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniloscampos/Daniloscampos/output/github-snake.svg?v=1" />
+  <img width="100%" alt="Animação da cobrinha percorrendo o gráfico de contribuições de Daniloscampos" src="https://raw.githubusercontent.com/Daniloscampos/Daniloscampos/output/github-snake.svg?v=1" />
 </picture>
 
 <sub>Animação gerada diariamente a partir do gráfico de contribuições do GitHub.</sub>
