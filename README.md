@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Tecnologia que faz parte da operação
+##  Tecnologia que faz parte da operação
 
 Sou **Danilo da Silva Campos**, à frente da **Caparroz Smart Solutions**. Desenvolvo soluções de IA e automação para pequenas e médias empresas, com foco em atendimento, integração de sistemas e organização de processos.
 
@@ -91,7 +91,7 @@ Projeto acadêmico de gestão de acervo, usuários e empréstimos, com autentica
 
 ---
 
-## 🤝 Vamos tirar sua ideia do papel?
+##  Vamos tirar sua ideia do papel?
 
 **Qual tarefa mais toma tempo na sua empresa hoje?**
 
